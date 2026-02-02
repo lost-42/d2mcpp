@@ -16,9 +16,9 @@
 [English]: README.md
 [Todo]: README.md
 
-[📚Book]: https://sunrisepeak.github.io/mcpp-standard
+[📚Book]: https://mcpp-community.github.io/d2mcpp
 [🎥Video]: https://youtube.com/playlist?list=PL7uow6t1QjF0ooMLkLSS96swpSuBZvoRE&si=1xHOGVIYpbzZAosI
-[⌨️Code]: https://github.com/Sunrisepeak/mcpp-standard/tree/main/dslings
+[⌨️Code]: https://github.com/mcpp-community/d2mcpp/tree/main/dslings
 [👥X]: https://forum.d2learn.org/category/20
 
 ## 目標
@@ -37,9 +37,9 @@
 
 ### 線上程式碼練習
 
-> [**點擊下方按鈕**](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=Sunrisepeak/mcpp-standard) 即可在雲端自動完成設定, 並進入練習程式碼偵測模式
+> [**點擊下方按鈕**](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=mcpp-community/d2mcpp) 即可在雲端自動完成設定, 並進入練習程式碼偵測模式
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=Sunrisepeak/mcpp-standard)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=mcpp-community/d2mcpp)
 
 ### 建立本地練習環境
 
@@ -67,12 +67,12 @@ irm https://d2learn.org/xlings-install.ps1.txt | iex
 </details>
 
 ```bash
-xlings install d2x:mcpp-standard
-cd mcpp-standard
+xlings install d2x:d2mcpp
+cd d2mcpp
 d2x checker
 ```
 
-**👉 [更多細節...](https://sunrisepeak.github.io/mcpp-standard/base/chapter_1.html)**
+**👉 [更多細節...](https://mcpp-community.github.io/d2mcpp/base/chapter_1.html)**
 
 ## 社區
 
@@ -94,10 +94,10 @@ d2x checker
 
 **👥貢獻者**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Sunrisepeak/mcpp-standard&type=date&legend=top-left)](https://www.star-history.com/#Sunrisepeak/mcpp-standard&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=mcpp-community/d2mcpp&type=date&legend=top-left)](https://www.star-history.com/#mcpp-community/d2mcpp&type=date&legend=top-left)
 
-<a href="https://github.com/Sunrisepeak/mcpp-standard/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sunrisepeak/mcpp-standard" />
+<a href="https://github.com/mcpp-community/d2mcpp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mcpp-community/d2mcpp" />
 </a>
 
-<a href="https://hellogithub.com/repository/Sunrisepeak/mcpp-standard" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=7877f7cb12e940a5a432d49c19a360df&claim_uid=aNLTSv91Awj8ruX&theme=dark" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://hellogithub.com/en/repository/mcpp-community/d2mcpp" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=7877f7cb12e940a5a432d49c19a360df&claim_uid=aNLTSv91Awj8ruX&theme=dark" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>

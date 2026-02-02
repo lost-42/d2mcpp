@@ -37,7 +37,7 @@ Invoke-Expression (Invoke-Webrequest 'https://d2learn.org/xlings-install.ps1.txt
 > Download the project to current directory and automatically configure local environment
 
 ```bash
-xlings install d2x:d2mcpp
+d2x install d2mcpp
 ```
 
 ### Local E-book
@@ -102,7 +102,7 @@ After entering the automated code practice environment using `xlings checker`, t
 //   d2x checker hello-mcpp
 //
 
-#include <d2x/common.hpp>
+#include <d2x/cpp/common.hpp>
 
 // You can observe "real-time" changes in the console when modifying code
 
@@ -153,7 +153,7 @@ Homepage: https://github.com/d2learn/xlings
 
 ### Configure Language
 
-Edit the `lang` attribute in the project configuration file `config.xlings`. `zh` corresponds to Chinese, and `en` corresponds to English.
+Edit the `lang` attribute in the project configuration file `.d2x.json`. `zh` corresponds to Chinese, and `en` corresponds to English.
 
 ```lua
     },

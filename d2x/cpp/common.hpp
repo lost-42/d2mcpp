@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-#include <d2x/honly_logger.hpp>
+#include <d2x/cpp/honly_logger.hpp>
 
 #define d2x_assert(expr) \
 { \

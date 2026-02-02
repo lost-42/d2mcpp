@@ -37,7 +37,7 @@ Invoke-Expression (Invoke-Webrequest 'https://d2learn.org/xlings-install.ps1.txt
 > 下载项目到当前目录并自动配置本地环境
 
 ```bash
-xlings install d2x:d2mcpp
+d2x install d2mcpp
 ```
 
 ### 本地电子书
@@ -100,7 +100,7 @@ d2x update
 //   d2x checker hello-mcpp
 //
 
-#include <d2x/common.hpp>
+#include <d2x/cpp/common.hpp>
 
 // 修改代码时可以观察到控制台"实时"的变化
 
@@ -151,7 +151,7 @@ Homepage: https://github.com/d2learn/xlings
 
 ### 配置语言
 
-编辑项目配置文件`config.xlings`中的`lang`属性, `zh`对应中文, `en`对应英文
+编辑项目配置文件`.d2x.json`中的`lang`属性, `zh`对应中文, `en`对应英文
 
 ```lua
     },

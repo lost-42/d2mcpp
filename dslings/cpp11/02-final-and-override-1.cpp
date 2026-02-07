@@ -21,13 +21,13 @@
 #include <string>
 
 struct A {
-    virtual int func1() {
+    virtual int func1() final {
        return 1;
     }
     int func2() { return 2; }
 };
 
-struct B : A  {
+struct B final : A  {
 
     int func1() {
         return 3;
